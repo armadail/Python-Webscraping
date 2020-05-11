@@ -1,0 +1,16 @@
+version: 1.0,published: 04/09/2019,date queried: 03/23/2020,email: robokids@live.ca,grade: 1,"domains: general, science, math, social_studies",,,,,,,
+,,,,,,,,,,,,
+Word,Domain,Grade,Grade 1 Frequency,,//Question Type,//Points,//Question Text,//Answer Choice 1,//Answer Choice 2,//Answer Choice 3,//Answer Choice 4,occurrences
+each,general,1,246,,MC,5,"A. When you run, ____ foot leaves the ground before the other comes down. B. We ____ wanted the bedroom with the balcony, so we tossed a coin to decide.",*each,large,math,crop,11
+strategy,general,1,52,,MC,5,A. The president held an emergency meeting to discuss military ____ with the Pentagon yesterday. B. Their marketing ____ for the product involves obtaining as much free publicity as possible.,*strategy,trade,energy,plant,1
+complete,general,1,42,,MC,5,A. He only needs two more cards to ____ the set. B. All she needed to ____ her happiness was a baby.,compare,technology,topic,*complete,1
+independent,general,1,36,,MC,5,"A. They all made the same comment, quite ____ of each other. B. Belize became fully ____ from Britain in 1981.",atlas,*independent,constitution,native,1
+data,math,1,54,,MC,5,A. The ____ was/were collected by various researchers. B. Now the ____ is/are being transferred from magnetic tape to hard disk.,soil,route,shape,*data,1
+environment,science,1,19,,MC,5,A. We're not doing enough to protect the ____ from pollution. B. Were trying to protect the ____ from pollution.,property,culture,*environment,liter,1
+strategy,social_studies,1,52,,MC,5,A. The president held an emergency meeting to discuss military ____ with the Pentagon yesterday. B. Their marketing ____ for the product involves obtaining as much free publicity as possible.,seedling,pledge,*strategy,cattle,1
+independence,social_studies,1,12,,MC,5,A. Mexico gained its ____ from Spain in 1821. B. The country gained its ____ in 1991.,*independence,constitution,thermometer,subtract,1
+climate,science,2,15,,MC,5,A. An abnormal ____ stunted the crops. B. We need to assess the impact on ____ change.,coral,backbone,hibernate,*climate,1
+human,science,2,13,,MC,5,"A. The ____ species, according to the best theory I can form of it, is composed of two distinct races, the man who borrows, and the man who lends. B. Custom, then is the great guide of ____ life.",human,zebra,*human,skeleton,6
+physical,science,2,11,,MC,5,A. He had a ____ strength that matched his outward appearance. B. He tends to avoid all ____ contact.,camouflage,vibrate,*physical,manatee,1
+robotic,science,3,5,,MC,5,"A. The almost ____ voice of the security office fizzed over the voice comm. B. Today, unattended ____ telescopes scan skies that have been charted over centuries, recording their findings in modern databases.",landslide,silt,mound,*robotic,1
+setup,science,5,4,,MC,5,"A. I gradually got rather disillusioned with the whole ____ of the university. B. I like the feel and ____ of the gold-plated Floyd Rose licensed tremolo, which pivots on two vertical height adjusters.",liver,graphite,penicillin,*setup,1
